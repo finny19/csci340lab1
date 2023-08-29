@@ -1,18 +1,42 @@
 .section-heading {
     text-align: center;
     margin-top: 9px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:coral;
 }
 
 .row {
     padding-top: 5px;
     margin-bottom: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    color:aquamarine;
 }
 
 .conclusion-text {
     text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(24, 207, 161);
 }
 
 .lab-name {
     padding-top: 9px;
     text-align: center;
+    color:brown;
+}
+
+.bolded {
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.italicized {
+    font-style: italic;
+}
+
+.top-area {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:darkgoldenrod;
 }
